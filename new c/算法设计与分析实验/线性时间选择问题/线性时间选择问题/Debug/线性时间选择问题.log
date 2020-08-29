@@ -1,0 +1,2 @@
+﻿线性时间选择问题.obj : error LNK2005: _main already defined in select.obj
+E:\C程序\new c\算法设计与分析实验\线性时间选择问题\Debug\线性时间选择问题.exe : fatal error LNK1169: one or more multiply defined symbols found
